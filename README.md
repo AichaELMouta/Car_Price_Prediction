@@ -7,52 +7,57 @@ This project compares multiple regression models and identifies the best-perform
 This project uses the Car Price Prediction Dataset to analyze how different factors influence the selling price of a used car.
 Several regression models were developed and evaluated:
 
-Linear Regression
+  Linear Regression
 
-Lasso Regression
+  Lasso Regression
 
-Ridge Regression
+  Ridge Regression
 
-ElasticNet Regression
+  ElasticNet Regression
 
-After comparing their performance using RMSE, MAE, and R² score, the Ridge Regression model achieved the best errors with the most stable performance.
+After comparing their performance using RMSE and MAE, the Ridge Regression model achieved the best errors with the most stable performance.
 
 📂 Dataset
 
 Source: Kaggle
 
-Link: (Insert your dataset link here)
+Link: https://www.kaggle.com/datasets/zafarali27/car-price-prediction
 
-Number of samples: e.g., 8,000+ rows
+Number of samples: 2500 raws and 10 columns.
 
 Columns include:
 
-year
+  year
 
-selling_price
+  Brand
 
-km_driven
+  Engine size
 
-fuel
+  fuel type
 
-seller_type
+  condition
 
-transmission
+  transmission
 
-owner
+  Price
 
-mileage, engine, max_power
+  mileage
 
-car_name
+  Model
 
 🛠️ Technologies Used
 
-Python
+  Python
 
-Pandas & NumPy
+  Pandas & NumPy
 
-Scikit-learn
+  Scikit-learn
 
-Matplotlib / Seaborn
+  Matplotlib / Seaborn
 
-Jupyter Notebook / Google Colab
+  Google Colab
+  
+📧 Contact
+
+If you have questions or suggestions, feel free to reach out:
+ichael2023@example.com
