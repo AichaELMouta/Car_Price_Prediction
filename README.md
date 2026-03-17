@@ -209,6 +209,7 @@ Car_Price_Prediction
        └── car_price_selling.pkl
 │
 ├── README.md
+├── requirements.txt
 ```
 
 ---
