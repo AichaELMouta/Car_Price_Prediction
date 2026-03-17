@@ -199,11 +199,14 @@ Predicted **car selling price**.
 Car_Price_Prediction
 │
 ├── data
+     └── car data.csv
 │
 ├── notebooks
 │   └── car_price_prediction.ipynb
 │
-├── models
+├── Streamlit
+       └── App.py
+       └── car_price_selling.pkl
 │
 ├── README.md
 ```
